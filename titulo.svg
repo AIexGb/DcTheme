@@ -1,5 +1,3 @@
-<svg width="500" height="200" xmlns="http://www.w3.org/2000/svg">
-    <g id="svgGroup" stroke-linecap="round" fill-rule="evenodd" font-size="6pt" stroke="#000" stroke-width="0.25mm" fill="#000" style="stroke:#000;stroke-width:0.25mm;fill:#000">
-        <text x="0" y="" font-family="Arial" font-size="74" fill="black" dominant-baseline="hanging">Alex G</text>
-    </g>
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+    <text x="0" y="20" font-family="Arial" font-size="32" fill="black">ltsPringle</text>
 </svg>
