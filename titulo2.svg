@@ -1,5 +1,5 @@
 <svg width="500" height="200" viewBox="0 0 500 200" xmlns="http://www.w3.org/2000/svg">
     <g id="svgGroup" stroke-linecap="round" fill-rule="evenodd" font-size="9pt" stroke="#000" stroke-width="0.25mm" fill="#000" style="stroke:#000;stroke-width:0.25mm;fill:#000">
-        <text x="0" y="0" font-family="Arial" font-size="48" fill="black" dominant-baseline="hanging">ltsPringle</text>
+        <text x="0" y="0" font-family="Consolas" font-size="36" fill="black" dominant-baseline="hanging">ltsPringle</text>
     </g>
 </svg>
